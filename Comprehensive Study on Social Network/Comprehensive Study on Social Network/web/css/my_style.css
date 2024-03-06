@@ -1,0 +1,68 @@
+.profile {
+  width: 100%;
+  position: relative;
+  background: #FFF;
+  border: 1px solid #D5D5D5;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+.profile .image {
+  display: block;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  text-align: center;
+  border: 5px solid #FFF;
+}
+.profile .user {
+  position: relative;
+  padding: 0px 5px 5px;
+}
+.profile .user .avatar {
+  position: absolute;
+  left: 20px;
+  top: -85px;
+  z-index: 2;
+}
+.img-cover{
+    width:800px;
+    height:300px;
+}
+.profile .user {
+  position: relative;
+  padding: 0px 5px 5px;
+}
+
+.profile .user .avatar {
+  position: absolute;
+  left: 300px;
+  top: -85px;
+  z-index: 2;
+}
+.profile .user h2 {
+  font-size: 16px;
+  line-height: 20px;
+  display: block;
+  float: left;
+  margin: 13px 0px 0px 490px;
+  font-weight: bold;
+}
+div.show-image
+  {
+  position: relative;
+  float:left;
+  margin:5px;
+  }
+
+div.show-image:hover input
+  {
+  display: block;
+  }
+
+div.show-image input
+  {
+  position:absolute;
+  top:0;
+  left:0;
+  display:none;
+  }

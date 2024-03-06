@@ -1,0 +1,22 @@
+/* CSS Document */
+.chatlist .head{
+    padding: 5px 3px 5px 5px;
+    font: 11px 'lucida grande', tahoma, verdana, arial, sans-serif;
+    font-weight: bold;
+    color: #fff;
+    border: 1px solid rgba(0, 39, 121, .76);
+    border-bottom: none;
+    cursor: pointer;
+	background-color: #627BAE;
+	
+}
+.chatlist 
+{
+border:1px solid #627BAE;
+width:60%;
+
+}
+.list
+{
+padding:5px;
+}
